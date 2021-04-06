@@ -1,3 +1,3 @@
 #include "Sample.h"
 
-//ヘッダーにて実装済み。
+//Sample.hにて実装済み。
